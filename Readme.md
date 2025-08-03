@@ -9,6 +9,13 @@ git commit -m "comentario"
 git status
 git log
 
+// Comandos GitHub:
+
+git remote add origin (link)
+git push origin main
+git push
+git remote set-url (link)
+
 // Garantir que os commits vão contar no github para seu e-mail:
 
 git config --global user.email (configuração global)
